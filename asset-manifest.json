@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vrinda-mahajan.github.io/csb-2ex27/static/css/main.44696375.chunk.css",
+    "main.js": "https://vrinda-mahajan.github.io/csb-2ex27/static/js/main.7a025dcc.chunk.js",
+    "main.js.map": "https://vrinda-mahajan.github.io/csb-2ex27/static/js/main.7a025dcc.chunk.js.map",
+    "runtime-main.js": "https://vrinda-mahajan.github.io/csb-2ex27/static/js/runtime-main.1cf3aaf3.js",
+    "runtime-main.js.map": "https://vrinda-mahajan.github.io/csb-2ex27/static/js/runtime-main.1cf3aaf3.js.map",
+    "static/js/2.2ccfc397.chunk.js": "https://vrinda-mahajan.github.io/csb-2ex27/static/js/2.2ccfc397.chunk.js",
+    "static/js/2.2ccfc397.chunk.js.map": "https://vrinda-mahajan.github.io/csb-2ex27/static/js/2.2ccfc397.chunk.js.map",
+    "index.html": "https://vrinda-mahajan.github.io/csb-2ex27/index.html",
+    "static/css/main.44696375.chunk.css.map": "https://vrinda-mahajan.github.io/csb-2ex27/static/css/main.44696375.chunk.css.map",
+    "static/js/2.2ccfc397.chunk.js.LICENSE.txt": "https://vrinda-mahajan.github.io/csb-2ex27/static/js/2.2ccfc397.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cf3aaf3.js",
+    "static/js/2.2ccfc397.chunk.js",
+    "static/css/main.44696375.chunk.css",
+    "static/js/main.7a025dcc.chunk.js"
+  ]
+}
